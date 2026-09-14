@@ -1,0 +1,13 @@
+Place your own approved, non-sensitive documents in this folder.
+
+Supported formats: .txt, .md, and text-based .pdf.
+
+After adding, editing, removing, or renaming any supported document, open PowerShell in the local_rag folder and run:
+
+python .\offline_rag.py --build-index --offline --documents .\my_documents
+
+Then ask questions using the same document folder:
+
+python .\offline_rag.py --offline --documents .\my_documents --question "Your question here"
+
+Do not place Microsoft Word .doc or .docx files here in this beginner package. Save them as a text-based PDF first.

@@ -1,0 +1,32 @@
+AI Ritual Local RAG Student Package
+Persistent-index edition
+
+AI_Ritual_Two_Hour_Training_Guide.md
+CONTENTS.txt
+STUDENT_README_FIRST.md
+local_rag/README.md
+local_rag/START_HERE_WINDOWS.md
+local_rag/my_documents/.keep
+local_rag/my_documents/ADD_YOUR_DOCUMENTS_HERE.txt
+local_rag/offline_rag.py
+local_rag/requirements.txt
+local_rag/sample_knowledge_base/restaurant_playbook.md
+local_rag/system_prompt.txt
+notebooks/ai_ritual_colab_rag.ipynb
+research_notes.md
+slides/Build_Local_RAG__Choose_AI_That_Improves_Work.pptx
+slides/ai_ritual_rag_workshop_deck/colab.xml
+slides/ai_ritual_rag_workshop_deck/components.xml
+slides/ai_ritual_rag_workshop_deck/cover.xml
+slides/ai_ritual_rag_workshop_deck/design.xml
+slides/ai_ritual_rag_workshop_deck/huggingface.xml
+slides/ai_ritual_rag_workshop_deck/local_boundary.xml
+slides/ai_ritual_rag_workshop_deck/local_lab.xml
+slides/ai_ritual_rag_workshop_deck/next_step.xml
+slides/ai_ritual_rag_workshop_deck/opportunity.xml
+slides/ai_ritual_rag_workshop_deck/outcomes.xml
+slides/ai_ritual_rag_workshop_deck/rag_chain.xml
+slides/ai_ritual_rag_workshop_deck/restaurant.xml
+slides/ai_ritual_rag_workshop_deck/slide_state.json
+slides/ai_ritual_rag_workshop_deck/technology.xml
+slides/slide_content.md
